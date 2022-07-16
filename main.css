@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+    color: #333;
+    border: 3px solid white;
+    border-radius: 50%;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.container {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    margin-top: 40vh;
+}
